@@ -1,0 +1,19 @@
+safe:      true
+permalink: date
+markdown:  redcarpet
+highlighter: pygments
+exclude:   [ README.md, Gemfile, vendor, .*, bower.json ]
+
+# Setup
+title: "phospr.us"
+tagline: ""
+url: http://phospr.us
+baseurl: "http://phospr.us"
+
+# About/contact
+author:
+  name: Tom HV
+  url:
+  email: tom@tomhv.uk
+
+my_github:   http://www.github.com/phospr
