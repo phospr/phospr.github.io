@@ -62,3 +62,7 @@ pre {
 .jumbotron h1 {
     color: #003333;
 }
+
+.jumbotron p {
+    font-family: Laila, serif;
+}
