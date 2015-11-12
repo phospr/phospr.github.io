@@ -20,7 +20,7 @@ title: phospr.us
 
 use Phospr\Fraction;
 
-$fraction = new Fraction(4,5);
+$fraction = new Fraction(4, 5);
 
 echo $fraction; // 4/5
 
@@ -38,7 +38,7 @@ use Phospr\Weight;
 use Phospr\Uom;
 
 $lbs = Weight::LB(1, 2);
-$ozs = $lbs->to(Uom::OZ);
+$ozs = $lbs->to(Uom::OZ());
 
 echo $ozs; // 8 OZ
                 </code>
