@@ -10,14 +10,18 @@ h1, h2, h3, h4, h5, h6 {
     color: #666;
 }
 
-.navbar-default .navbar-brand
+.navbar-inverse {
+    background-color: #003333;
+}
+
+.navbar-invers .navbar-brand
 {
-    font-family: Rancho, sans-serif;
+    font-family: "Aladin", cursif;
     color: #900;
     font-size: 36px;
 }
 
-.navbar-default .navbar-brand small
+.navbar-inverse .navbar-brand small
 {
     font-size: 0.7em;
 }
