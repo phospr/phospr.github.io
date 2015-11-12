@@ -8,7 +8,7 @@ exclude:   [ README.md, Gemfile, vendor, .*, bower.json ]
 title: "phospr.us"
 tagline: ""
 url: http://phospr.us
-baseurl: "http://phospr.us"
+baseurl: "http://phospr.us/"
 
 # About/contact
 author:
