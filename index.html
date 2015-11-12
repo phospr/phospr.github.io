@@ -30,9 +30,9 @@ use Phospr\Weight;
 use Phospr\Uom;
 
 $lbs = Weight::LB(1, 2);
-$oz = weight->to(Uom::OZ);
+$ozs = $lbs->to(Uom::OZ);
 
-echo $oz; // 8 OZ
+echo $ozs; // 8 OZ
             </code>
         </pre>
     </div><!-- .col -->
