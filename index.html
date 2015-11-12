@@ -1,15 +1,21 @@
 ---
-layout: default
+layout: home
 title: phospr.us
 ---
 
-<h1>Hello, Phospr</h1>
+<div class="jumbotron">
+    <div class="container">
+        <h1>Live long and Phospr</h1>
+        <p>Free and open software for progress</p>
+    </div><!--.container -->
+</div><!-- .jumbotron -->
 
-<div class="row">
-    <div class="col-md-4">
-        <h3>Just a fraction of the effort</h3>
-        <pre>
-            <code class="php">
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <h3>Just a fraction of the effort</h3>
+            <pre>
+                <code class="php">
 &lt;?php
 
 use Phospr\Fraction;
@@ -17,13 +23,13 @@ use Phospr\Fraction;
 $fraction = new Fraction(4,5);
 
 echo $fraction; // 4/5
-            </code>
-        </pre>
-    </div><!-- .col -->
-    <div class="col-md-4">
-        <h3>Weight, weight...don't tell me!</h3>
-        <pre>
-            <code class="php">
+                </code>
+            </pre>
+        </div><!-- .col -->
+        <div class="col-md-4">
+            <h3>Weight, weight...don't tell me!</h3>
+            <pre>
+                <code class="php">
 &lt;?php
 
 use Phospr\Weight;
@@ -33,7 +39,8 @@ $lbs = Weight::LB(1, 2);
 $ozs = $lbs->to(Uom::OZ);
 
 echo $ozs; // 8 OZ
-            </code>
-        </pre>
-    </div><!-- .col -->
-</div><!-- .row -->
+                </code>
+            </pre>
+        </div><!-- .col -->
+    </div><!-- .row -->
+</div>
