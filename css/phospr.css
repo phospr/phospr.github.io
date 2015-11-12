@@ -46,3 +46,9 @@ small.text-muted.text-uppercase
 {
     font-size: 0.8em;
 }
+
+pre {
+    background-color: #282b2e;
+    border: none;
+    padding: 0 15px;
+}
