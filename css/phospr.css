@@ -1,0 +1,43 @@
+body
+{
+    padding-top: 70px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    margin-bottom: 1em;
+    color: #666;
+}
+
+.navbar-default .navbar-brand
+{
+    font-family: Rancho, sans-serif;
+    color: #900;
+    font-size: 36px;
+}
+
+.navbar-default .navbar-brand small
+{
+    font-size: 0.7em;
+}
+.navbar-nav > li > a
+{
+    font-size: 1.4em;
+}
+
+.navbar-nav > li.paypal > a
+{
+    font-size: 1em;
+}
+
+.post-comments
+{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+small.text-muted.text-uppercase
+{
+    font-size: 0.8em;
+}
