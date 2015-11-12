@@ -54,7 +54,7 @@ pre {
 }
 
 .jumbotron {
-    margin-bottom: 0;
+    margin-bottom: 20px;
     padding-top: 30px;
     padding-bottom: 30px;
 }
@@ -66,4 +66,5 @@ pre {
 
 .jumbotron p {
     font-family: Laila, serif;
+    font-style: italic;
 }
