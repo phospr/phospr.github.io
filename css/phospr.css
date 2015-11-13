@@ -47,7 +47,7 @@ small.text-muted.text-uppercase
     font-size: 0.8em;
 }
 
-code {
+code.hljs {
     background-color: #033;
 }
 
