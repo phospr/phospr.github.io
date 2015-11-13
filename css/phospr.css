@@ -15,35 +15,29 @@ h1, h2, h3, h4, h5, h6 {
     border-color: #003333;
 }
 
-.navbar-inverse .navbar-brand
-{
+.navbar-inverse .navbar-brand {
     font-family: "Aladin", cursif;
     color: #f33;
     font-size: 36px;
 }
 
-.navbar-inverse .navbar-brand small
-{
+.navbar-inverse .navbar-brand small {
     font-size: 0.7em;
 }
-.navbar-nav > li > a
-{
+.navbar-nav > li > a {
     font-size: 1.4em;
 }
 
-.navbar-nav > li.paypal > a
-{
+.navbar-nav > li.paypal > a {
     font-size: 1em;
 }
 
-.post-comments
-{
+.post-comments {
     padding-top: 2em;
     padding-bottom: 2em;
 }
 
-small.text-muted.text-uppercase
-{
+small.text-muted.text-uppercase {
     font-size: 0.8em;
 }
 
