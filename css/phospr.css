@@ -47,8 +47,12 @@ small.text-muted.text-uppercase
     font-size: 0.8em;
 }
 
+code {
+    background-color: #033;
+}
+
 pre {
-    background-color: #000;
+    background-color: #033;
     border: none;
     padding: 0 15px;
     margin-bottom: 2em;
