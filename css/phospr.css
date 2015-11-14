@@ -11,13 +11,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-inverse {
-    background-color: #003333;
-    border-color: #003333;
+    background-color: #333;
+    border-color: #333;
 }
 
 .navbar-inverse .navbar-brand {
     font-family: "Aladin", cursif;
-    color: #f33;
+    color: #e33;
     font-size: 36px;
 }
 
@@ -42,11 +42,11 @@ small.text-muted.text-uppercase {
 }
 
 code.hljs {
-    background-color: #033;
+    background-color: #333;
 }
 
 pre {
-    background-color: #033;
+    background-color: #333;
     border: none;
     padding: 0 15px;
     margin-bottom: 2em;
@@ -59,7 +59,7 @@ pre {
 }
 
 .jumbotron h1 {
-    color: #003333;
+    color: #333;
     margin-bottom: 30px;
 }
 
